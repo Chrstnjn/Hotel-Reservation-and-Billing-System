@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace HotelReservation.UI
+{
+    public partial class frmDashboard_A : Form
+    {
+        public frmDashboard_A()
+        {
+            InitializeComponent();
+        }
+    }
+}
