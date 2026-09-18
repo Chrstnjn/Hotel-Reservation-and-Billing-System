@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace HotelReservation.Model
+﻿namespace HotelReservation.Model
 {
-    internal class UserModel
+    public class UserModel
     {
+        public int Id { get; set; }
+        public string Username { get; set; }
+
+        public string Password { get; set; }
     }
 }
