@@ -1,4 +1,6 @@
 .vs/
 bin/
 obj/
-*.dbmdl
+
+HotelReservation.DB/HotelReservation.DB.dbmdl
+
