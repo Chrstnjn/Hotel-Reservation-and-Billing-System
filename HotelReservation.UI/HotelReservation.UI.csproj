@@ -163,32 +163,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Admin.UI\frmDashboard_A.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Admin.UI\frmDashboard_A.Designer.cs">
-      <DependentUpon>frmDashboard_A.cs</DependentUpon>
-    </Compile>
     <Compile Include="Receptionist.UI\frmDashboard_R.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Receptionist.UI\frmDashboard_R.Designer.cs">
       <DependentUpon>frmDashboard_R.cs</DependentUpon>
     </Compile>
-    <Compile Include="Login.UI\frmLogin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Login.UI\frmLogin.Designer.cs">
-      <DependentUpon>frmLogin.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Admin.UI\frmDashboard_A.resx">
-      <DependentUpon>frmDashboard_A.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Login.UI\frmLogin.resx">
-      <DependentUpon>frmLogin.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

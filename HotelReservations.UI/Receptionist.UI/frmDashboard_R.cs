@@ -3,16 +3,14 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace HotelReservation.UI
+namespace HotelReservations.UI.Receptionist.UI
 {
-    public partial class frmDashboard_A : Form
+    public partial class frmDashboard_R : Form
     {
-        public frmDashboard_A()
+        public frmDashboard_R()
         {
             InitializeComponent();
         }

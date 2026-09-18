@@ -6,5 +6,4 @@
   </Project>
   <Project Path="../HotelReservation.Model/HotelReservation.Model.csproj" Id="d4798649-a646-429c-a1cc-2b8a11a8ab98" />
   <Project Path="../HotelReservations.UI/HotelReservations.UI.csproj" Id="86feb93a-57e1-40d2-97dd-0d411c7c6002" />
-  <Project Path="HotelReservation.UI.csproj" Id="fe57872e-ef8a-45e3-b91c-de3dacd47f41" />
 </Solution>
