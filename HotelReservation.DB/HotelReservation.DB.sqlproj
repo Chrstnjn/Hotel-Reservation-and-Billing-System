@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Table\LoginDB.sql" />
+    <Build Include="dbo\View\vwLogin.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="dbo\PostScript\Script.PostDeployment1.sql" />

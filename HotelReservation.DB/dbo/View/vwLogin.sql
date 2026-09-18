@@ -1,0 +1,1 @@
+﻿CREATE VIEW vwLogin AS SELECT * FROM LoginDB
