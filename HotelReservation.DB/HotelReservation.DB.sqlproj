@@ -62,4 +62,10 @@
     <Folder Include="dbo\StoredProcedure" />
     <Folder Include="dbo\View" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Table\LoginDB.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="dbo\PostScript\Script.PostDeployment1.sql" />
+  </ItemGroup>
 </Project>
